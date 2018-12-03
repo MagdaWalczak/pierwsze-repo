@@ -1,2 +1,4 @@
+# in working area
+#in staging area
 #in git
 #in remote
