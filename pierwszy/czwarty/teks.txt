@@ -1,1 +1,1 @@
-taralala
+git config --global alias.nastepny "ls-files"
